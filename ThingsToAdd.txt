@@ -1,0 +1,4 @@
+Change logo
+in mobile version make the nave bar into menu icon and make the text even
+fix card overflow to header
+add Payment system
